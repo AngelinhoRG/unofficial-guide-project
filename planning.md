@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+This domain covers mostly real student experiences with a little bit of official course description. What makes this information hard to find is that you may need to scroll for several minutes through reviews/forums to find the exact information you want.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit | Discussion about free time as a CS student | https://www.reddit.com/r/csMajors/comments/tyd551/as_a_cs_undergraduate_how_much_free_time_do_you/ |
+| 2 | Reddit | Discussion about time spent studying CS | https://www.reddit.com/r/berkeley/comments/19as3vo/choosing_between_cs_courses_workload_and_advice/ |
+| 3 | Reddit | Discussion about time spent on CS classes | https://www.reddit.com/r/BrownU/comments/mwzx77/how_is_the_workload_for_intro_cs_classes_how_many/ |
+| 4 | Reddit | Discussion about time spent studying CS | https://www.reddit.com/r/csMajors/comments/9q87g2/cs_majors_how_many_hours_per_week_do_you/ |
+| 5 | Sac State | Course Catalog with class descriptions | https://catalog.csus.edu/courses-a-z/csc/ |
+| 6 | OMS Central | ML class student reviews | https://www.omscentral.com/courses/machine-learning/reviews |
+| 7 | OMS Central | Computer Networks class student reviews | https://www.omscentral.com/courses/computer-networks/reviews |
+| 8 | OMS Central | Software Dev Process class reviews | https://www.omscentral.com/courses/software-development-process/reviews |
+| 9 | OMS Central | AI class reviews | http://omscentral.com/courses/artificial-intelligence/reviews |
+| 10 | Reddit | Time Management advice with CS workload | https://www.reddit.com/r/csMajors/comments/13ie714/how_to_manage_time_with_heavy_workload_classes/ |
 
 ---
 
