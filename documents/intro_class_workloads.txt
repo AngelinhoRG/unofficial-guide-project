@@ -1,0 +1,19 @@
+How is the workload for intro cs classes? how many hours every day on an average?
+
+Hello! I just finished CS15 (intro to object oriented programming) up yesterday. I think the work is quite manageable, but you NEED to start early in order to avoid being stressed. The only thing that will be the death of you in CS15 is procrastination.
+
+With that being said, the workload gets progressively more and more intense as you go through the semester; you start off with learning to print some lines for your first assignment, all the way up to coding Tetris with nearly zero support code. I can't remember how many hours it was per day early on, but for my final project (Sketchy) I put in about 80 hours total over the course of about 3 weeks, and yesterday I spent about 9 hours cleaning up some code and adding comments before submitting.
+
+I think it's also important to consider the fact that our semester was noticeably shorter than usual, which meant the course material had to be delivered to us much much faster than usual semesters. Since you might be taking CS15 sometime after this nightmarish academic year, I believe the work load should be even more manageable for you than even I described just given the extra 3 weeks this semester lacked.
+
+About 2 hours a day counting lectures and labs, for people with average background. Whether you take 15, 17 or 19 is up to your experience with programming. To take 19 you must pass the placement test during summer.
+
+17 is good!! it can be a lot of work during projects bc theres hw/project/lab all due around the same time, but there are only a few projects during the semester! weekly psets were super doable (for me at least), and though labs are kind of annoying/tedious, theyre also super guided and tas give you the answers a lot of the time lol. regarding 17 vs 15, 15 is OOP and super project-based (no psets, just progressively larger projects), whereas 17 is functional programming and has a more consistent schedule of work imo (weekly pset/lab, occasional project). 17 also has a proper final, whereas 15 just has a final project from what i gather!!
+
+
+The intro courses all are roughly within the same number of HOURS a week, with the exception of 111, which is somewhat lighter in terms of hours (fantastic course, by the way, with a lovely professor). The WORK you do with those hours, however, are different.
+
+15 (and possibly 17, although I'm not the best source on 17) grows intense in the volume of coding you do. Some of the later projects become quite large with varying amounts of support code, and debugging often takes a very long time, especially for the later ones.
+
+19 is conceptually difficult. A significant amount of the time spent on 19 is spent trying to figure out a strategy for approaching the problems you're given, but once you roughly figure it out, the amount of actual coding you have to do is fairly reasonable. However, if you are considering 19 (and I definitely recommend you at least consider it! I grew immensely as a CS student and problem solver from taking it), then you have to complete the placement process during the summer. You don't need prior CS experience to do the placement, and it'll give you more options for potential intro courses.
+

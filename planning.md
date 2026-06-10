@@ -41,13 +41,17 @@ This domain covers mostly real student experiences with a little bit of official
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-250 - 350 tokens
+200 - 350 tokens (~800–1400 characters at ~4 chars/token); hard cap at 300 tokens (1200 chars)
 
 **Overlap:**
-25 tokens
+25 tokens (~100 characters)
 
 **Reasoning:**
-These documents are already small semantic units, so the chunk size should align to fit a single review boundaries rather than a fixed count. For longer reddit comments, we can split at each paragraph. Therefore, a chunk sizes between 250 and 350 would work well with a small overlap of 25 in case certain longer reviews exceed the limit. Fixed size chunking is better for optimized long documents, not small reviews.
+These documents are already small semantic units, so the chunk size should align to single review boundaries rather than a fixed count. For longer reddit comments, we can split at each paragraph. Therefore, chunk sizes between 200 and 350 work well with a small overlap of 25 tokens in case certain longer reviews exceed the limit. Fixed size chunking is better for optimized long documents, not small reviews.
+
+The original target of 250–350 tokens assumed reviews would be longer. In practice, OMS Central reviews average ~200 tokens and Sac State course descriptions average ~130 tokens — both naturally below 250 tokens even when complete. Rather than force-merging unrelated documents to hit an arbitrary minimum, the floor was lowered to 200 tokens to reflect the actual document structure. The hard cap of 300 tokens (1200 chars) is still enforced by the splitter so no chunk exceeds the maximum.
+
+Because many reviews are still shorter than 200 tokens individually, a merge step runs before splitting: consecutive documents from the same source are concatenated (separated by a blank line) until the combined block approaches the chunk size cap. The paragraph separator is preserved so the splitter can still break at natural boundaries if a merged block exceeds the maximum.
 
 ---
 

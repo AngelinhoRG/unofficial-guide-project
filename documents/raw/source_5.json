@@ -1,0 +1,758 @@
+[
+  {
+    "text": "CSC 1. Introduction to Computer Science. 3 Units Prerequisite(s): Intermediate algebra. Term Typically Offered: Fall, Spring Fundamental concepts of computers, computation and programming; history and principles of computing; problem solving; input, output; data representation, storage, and file organization; computer hardware, networking and data communication; social, economic and ethical implications; computer security and privacy. Students will solve problems using a programming language. Lecture, two hours; technical activity and laboratory, two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 1A. Introduction to Computer Science for Advanced Students. 3 Units Term Typically Offered: Fall, Spring Same material as covered in CSC 1 but intended for students who already have significant knowledge of the fundamental concepts of computers and/or computer programming. Students must attend the orientation session during the first class meeting. Two placement tests, one on programming and one on concepts, will be scheduled and used to determine student's prior preparation. Note: May be taken by those wishing to obtain credit by examination. Please refer to examination credit guidelines in the University catalog. Not open to students who have received credit for CSC 1 or MIS 5. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 5. Personal Computing. 3 Units Term Typically Offered: Fall, Spring Introduction to the role and use of personal computers, emphasizing the use and relevancy of common software for word processing, database, spreadsheet analysis, graphics, and communications. Examination of the personal computing milieu and the applications environment. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 8. Introduction to Internet Technologies. 3 Units Prerequisite(s): Basic computer literacy recommended. Term Typically Offered: Summer only Internet applications such as email, instant messaging, file transfer, secure communications, the web, and related tools and protocols. Basics of the web-publishing process and methods used to locate authoritative information on the internet. Webpage design, internet security and emerging technologies on the internet.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 8S. Self-Paced Introduction to Internet Technologies. 3 Units Prerequisite(s): Basic computer literacy recommended. Term Typically Offered: Fall, Spring Covers the same material as CSC 8 , Introduction to Internet Technologies. Provided by electronic means in addition to meetings for orientation, laboratory demonstrations, and tests. Internet applications such as Email, instant messaging, file transfer, secure communications, the Web, and related tools and protocols. Basics of the Web-publishing process and methods used to locate authoritative information on the Internet. Webpage design, Internet security and emerging/declining technologies on the Internet. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 10. Introduction to Programming Logic. 3 Units Prerequisite(s): Math 11 or equivalent Term Typically Offered: Fall, Spring Introduction to computer science with an emphasis on programming concepts and methodology. Intended to assist students with little or no programming experience to understand the basic principles of programming logic. Topics include computer hardware and software, problem solving and algorithm development, flow of control, modular design using techniques that can be applied to common programming languages. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 10A. Accelerated Introduction to Programming Logic. 3 Units Term Typically Offered: Fall, Spring Introduction to computer science with an emphasis on programming concepts, logic, and methodology: computer hardware and software, problem solving and algorithm development, flow of control, and modular design. Accelerated and more in-depth study of programming concepts than CSC 10 . Intended for computer science and computer engineering majors who have little or no programming experience. Lecture two house, technical activity and laboratory, two hours. Not open to students who have received credit for CSC 10 . Preqrequisite: Math 11",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 15. Programming Concepts and Methodology I. 3 Units Prerequisite(s): CSC 10 , or programming experience in a high-level programming language. Not currently enrolled in CSC 15 . Term Typically Offered: Fall, Spring, Summer Programming concepts using an object-oriented programming language. Introduction to methodologies for program design, development, testing, and documentation. Topics include program design, algorithm design, number systems, classes and objects, methods (functions), control structures, arrays, and interactive input/output. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 15P. Peer-Assisted Learning CSC 15. 1 Unit Corequisite(s): CSC 15 Term Typically Offered: Fall, Spring Students concurrently enrolled in CSC 15 work through faculty-designed problem sets under the guidance of a trained student facilitator to improve their understanding of CSC 15 content. Pedagogical strategies that encourage active, engaged learning are employed to facilitate student success. Discussion, 2 hours. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 15W. Programming Methodology I Workshop. 1 Unit Corequisite(s): CSC 15 . Term Typically Offered: Fall, Spring, Summer Designed to assist students in developing a more thorough understanding of programming methodology and problem solving techniques. Activity two hours. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 20. Programming Concepts and Methodology II. 3 Units Prerequisite(s): CSC 15 . Term Typically Offered: Fall, Spring Application of object-oriented techniques for systematic problem analysis and specification, design, coding, testing, and documentation. Semester-long project approach emphasizing larger programs. Managing program complexity using abstraction. Introduction to algorithm analysis and Big-O notation. Advanced language features. Basic sorting and searching algorithms. Recursion. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 20P. Peer-Assisted Learning CSC 20. 1 Unit Corequisite(s): CSC 20 Term Typically Offered: Fall, Spring Students concurrently enrolled in CSC 20 work through faculty-designed problem sets under the guidance of a trained student facilitator to improve their understanding of CSC 20 content. Pedagogical strategies that encourage active, engaged learning are employed to facilitate student success. Discussion, 2 hours. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 21. First Year Seminar: Becoming an Educated Person. 3 Units Term Typically Offered: Fall only Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Development of information competence and computer literacy. Students interact with fellow students and the seminar leader to build a community of academic and personal support.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 22. Visual Programming in BASIC. 3 Units Prerequisite(s): Intermediate Algebra. Term Typically Offered: Fall, Spring Computer Programming using Visual Basic. Topics include the Visual Basic Integrated Development Environment, visual user interface development, concepts of object-oriented programming, variables, control structures, arrays, functions, subroutines, strings, files, and database access. Applications will be created in areas such as business, games, and multimedia. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 25. Introduction to C Programming. 3 Units Term Typically Offered: Fall only Topics include: types, operators, control structures, input/output, arithmetic operations, the C library and preprocessor, functions and parameters, arrays, strings, pointers, and structures. Program design and style will be emphasized. Students will use a compiler. Note: Students with significant programming experience should take CSC 60 rather than CSC 25 . Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 28. Discrete Structures for Computer Science. 3 Units Prerequisite(s): Score of 76 or higher on ALEKS PPL exam or MATH 26A or MATH 29 or MATH 29B or MATH 30 ; and CSC 20 . CSC 20 and MATH 30 may be taken concurrently. Term Typically Offered: Fall, Spring Introduction to the essential discrete structures used in Computer Science, with emphasis on their applications. Topics include: counting methods, elementary formal logic and set theory, recursive programming, digital logic and combinational circuits, real number representation, regular expressions, finite automata.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 35. Introduction to Computer Architecture. 3 Units Prerequisite(s): CSC 15 . Term Typically Offered: Fall, Spring Internal representation of numeric and non-numeric data, assembly level machine architecture, addressing modes, subroutine linkage, polled input/output, interrupts, high-level language interfacing, macros and pseudo operations. Lecture two hours, technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 60. Introduction to Systems Programming in UNIX. 3 Units Prerequisite(s): CSC 20 , CSC 35 . Term Typically Offered: Fall, Spring Features of the C language commonly used in systems programming, application to systems programming in a UNIX environment. Topics include C preprocessor macros, I/O, bit-manipulation facilities, timesharing system concepts, file permissions, shell script programming, make files and source code control, basic system calls like fork and exec, pointers and dynamic memory allocation, libraries and relocation and linking concepts including assembler handling of symbol tables. Prior knowledge of a C like programming language is presumed.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 80. Web Development with HTML/XHTML and Tools. 3 Units Prerequisite(s): CSC 8 or equivalent computer and Internet experience. Term Typically Offered: Fall, Spring Hands-on course covering the processes and guidelines for creating and customizing interactive webpages. Emphasis on use of HTML/XHTML, CSS, and tools to create webpages. HTML/XHTML syntax to create, format, and link documents. Use of tables, graphics, styles, forms, multimedia, and other features in webpages. Effective webpage design and website organization. Lecture two hours and technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 110. Introduction to Programming Logic for Teachers. 3 Units Term Typically Offered: Fall, Spring, Summer An introduction to computer science with an emphasis on programming concepts and methodology. Intended to assist students with no programming experience to understand the basic principles of programming logic for computational thinking. Programming language is blocky-style. Topics include: computer devices and software, programming concepts and methodology, blocky-style programming, K-12 computer science curriculum development for introduction to computational thinking.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 111. Programming Concepts and Methodology for Teachers. 4 Units Prerequisite(s): CSC 110 Term Typically Offered: Fall, Spring, Summer Computer science teacher professional development based on equity, curriculum development, and computer science. Programming languages including blocky-style, web, and an object-oriented programming language. Introduction to computer science methodologies for program design, development, testing, and documentation. Computer science content includes program design, algorithm design, number systems, classes and objects, methods, control structures, arrays, and simple interactive input/output. Pedagogical content includes strategies for teaching and retaining students by developing engaging learning experiences and designing student assessment in computer science.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 112. Data Structures, Algorithms, and Software Engineering for Teachers. 3 Units Prerequisite(s): CSC 111 Term Typically Offered: Fall, Spring, Summer Introduction of data structures, algorithms, and software engineering to give teachers the background to lead instruction in computer science curriculum. Topics include linked lists, queues, sets, algorithm analysis, recursion, basic searching, and sorting. Software Engineering topics include the methodologies and techniques in planning, engineering and implementing a software system to solve a problem, and social, ethical, and legal impacts of computing. Pedagogical content includes strategies for teaching students by developing engaging learning experiences in computer science.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 113. Computer Networking and Cyber Security for Teachers. 3 Units Prerequisite(s): CSC 110 and CSC 111 . Not currently enrolled in CSC 113 . Term Typically Offered: Fall, Spring, Summer Introduction to basic components of digital devices and computing systems. Overview, structure, and types of computer networks. The layered model of networks and common protocols in each layer, such as HTTP and IP. Introduction to common network applications such as web, email, and videos. Common cyber security problems and solutions. Cyber safety. Pedagogical content includes strategies for teaching and retaining students by developing engaging learning experiences and designing student assessment in computer science.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 114. Digital Evidence and Computer Crime. 3 Units Prerequisite(s): CSC 1 and CSC 8 or CSC 8S or CSC 80 ; or instructor permission. Term Typically Offered: Fall, Spring Topics include technology and law, computer basics for digital investigations, network basics for digital investigations, investigation of computer crime, and the handling of digital evidence.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 115. Internet Security. 3 Units Prerequisite(s): CSC 1 and CSC 8 or CSC 8S or CSC 80 ; or instructor permission. Term Typically Offered: Summer only Internet security problems and discussion of potential solutions: network vulnerabilities and attacks, secure communication and use of cryptography, Internet security protocols and tools to defend against network attacks, network intrusion detection, and wireless network security. Survey and use of software tools for network security.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 116. Cyber Forensics. 3 Units Prerequisite(s): CSC 1 and CSC 8 or CSC 8S or CSC 80 ; or instructor permission. Term Typically Offered: Summer only Fundamentals of computer forensics and cyber-crime scene analysis including laws, regulations, and international standards; formal methodology for conducting security incident investigations; categories of electronic evidence. Projects involving digital forensic tools.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 120. Web Server Administration. 3 Units Prerequisite(s): CSC 80 . Term Typically Offered: Fall, Spring Managing and maintaining Web servers. Administering open source and commercial Web servers, Web hosting alternatives, professional standards and practices of website hosting, Web server installation, configuration, management, and security. Selecting and using technologies to support professional quality websites. Lecture two hours; technical activity and laboratory two hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 121. Client-Side Web Programming. 3 Units Prerequisite(s): CSC 22 , CSC 80 or equivalents; OR PCSC/CSC Major, CSC 60 , CSC 130 . Term Typically Offered: Fall, Spring Client-side Web programming using JavaScript, DHTML, and client-side Web technologies. Event-driven programming, dynamic data types, control structures, and introduction to object-oriented programming and program design. Use of cookies and built-in objects. Validation and processing of forms. Basic features of the Document Object Model.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 122. Web Database Applications. 3 Units Prerequisite(s): CSC 10 or CSC 22 ; and CSC 80 or equivalent. Term Typically Offered: Fall, Spring Fundamentals of building effective database-driven web applications. Particular emphasis on database access via web interfaces. Introduction to database management systems, their structure and usage, SQL, integrating web applications with databases, design and implementation of dynamic web database applications.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 123. Web Application Development. 3 Units Prerequisite(s): CSC 22 , CSC 121 , CSC 122 , or equivalent experience; OR PCSC/CSC Major, CSC 60 , CSC 134 . Term Typically Offered: Fall, Spring Developing multi-tiered enterprise-level Web applications. Standards of Web services and other current Web technologies, including XML, AJAX, and server-side programming such as Java EE, .NET, or PHP. Development of Web applications such as those used for e-commerce, e-business, and content management. Format consists of two 1.5 hour lecture/lab sessions per week.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 126. 3D Computer Modeling. 3 Units Prerequisite(s): CSC 10 or ART 97 or equivalent. Term Typically Offered: Fall only Techniques and processes to create 3D computer models and environments. Exercises, assignments and projects designed to build skill levels with 3D computer modeling tools. Demonstrations and workshops in the use of 3D computer modeling software. Critiques, discussion and presentations to develop students' conceptual grasp of 3D computer modeling and virtual reality environments. Example applications in art/new media and computer gaming. Note: May be taken twice for credit. Cross-listed as ART 142 .",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 127. 3D Computer Animation. 3 Units Prerequisite(s): ART 142 or CSC 126 . Term Typically Offered: Spring only Creative skills and techniques for animating 3D computer-modeled objects/environments. Topics include animation techniques; keyframing and interpolation; deformation and morphing; path control; skeletal animation; model rigging and skinning; forward and inverse kinematics, constraints and IK solvers; particle systems; fluid, cloth, hair, and fur simulation; shape keys; and soft body animation. Emphasis on both skill development and creative application of modeling and animation techniques. Includes demos, in class and homework excercises, and self directed projects. Cross-listed: ART 143.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 130. Data Structures and Algorithm Analysis. 3 Units Prerequisite(s): CSC 20 , CSC 28 ; CSC 28 may be taken concurrently. Not currently enrolled in CSC 130 . Term Typically Offered: Fall, Spring Specification, implementation, and manipulation of abstract data types and their structures: balanced trees, priority queues, sets, hash tables, and graphs; recursion; searching and sorting algorithms; asymptotic analysis; NP completeness; fundamental graph algorithms including graph search, shortest path, and minimum spanning trees",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 131. Computer Software Engineering. 3 Units Prerequisite(s): CSC 130 ; may be taken concurrently. Not currently enrolled in CSC 131 . Term Typically Offered: Fall, Spring Principles of Software Engineering covering the software development life cycle, including software requirements engineering (elicitation, modeling, analysis and specification), software design, software implementation and testing. Main topics include various software development process models, method and techniques for specifying requirements, architectural and detailed design specification, prototyping, top-down and bottom-up software implementation and testing. Topics also include project management, project documentation and the development of communication skills through written documentation and oral presentation.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 132. Computing Theory. 3 Units Prerequisite(s): CSC 28 , CSC 130 ; CSC 130 may be taken concurrently. Term Typically Offered: Fall, Spring Introduction to computing theory with examples and applications. Automata and formal languages; language recognition and generation; language hierarchy; deterministic and non-deterministic automata; regular expressions; pushdown automata and context-free grammars; properties of regular and context-free languages; Turing machines; computable and noncomputable functions; decidability.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 133. Object-Oriented Computer Graphics Programming. 3 Units Prerequisite(s): CSC 130 , CSC 131 , not currently enrolled in CSC 133 . Term Typically Offered: Fall, Spring Introduction to computer graphics and to advanced topics in object-oriented programming. Mobile application development; implementation of event-driven systems; advanced object-oriented concepts such as inheritance and polymorphism; implementation of software design patterns; graphical user interface development; fundamentals of 2D graphics systems. Application of these topics to mobile programming.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 134. Database Management Systems. 3 Units Prerequisite(s): CSC 130 , and not currently enrolled in CSC 134 Term Typically Offered: Fall, Spring Entity-Relationship (ER) model; relational model; relational database design by ER-to-relational mapping; design of applications using database technology; SQL; schema definition, constraints, and queries; relational algebra; data normalization; access methods such as indexing and hash structures; introduction to transaction processing.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 135. Computability and Formal Languages. 3 Units Prerequisite(s): CSC 28 , CSC 35 , CSC 130 , and not currently enrolled in CSC 135 . Term Typically Offered: Fall, Spring Introduction to limits of computation and techniques for specifying and processing formal languages. Regular languages, regular expressions, finite automata, properties and limitations. Context-free languages, grammars, pushdown automata, properties and limitations. Applications in lexical and syntax analyses, including recursive-descent or table-driven parsing. Turing machines, halting problem, reductions. Introduction to functional programming and related programming language features.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 136. Programming Languages. 3 Units Prerequisite(s): CSC 35 , CSC 132 . Term Typically Offered: Fall, Spring Evolution and characteristics of programming languages. Scripting, procedural, object-oriented, functional and logic paradigms. Language specification; interpreters and compilers; virtual machines; parsing techniques. Design and implementation of selected features of programming languages. Programming languages used in the development of intelligent systems, with introduction to Artificial Intelligence. Trends in programming languages.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 137. Computer Organization. 3 Units Prerequisite(s): CSC 28 , CSC 60 , CSC 130 , not currently enrolled in CSC 137 . Term Typically Offered: Fall, Spring Introduction to computer organization and architecture. Combinational devices, sequential and synchronized circuits, memory organization, CPU architecture and organization, bus structures, input/output, interrupts, DMA, memory hierarchy, introduction to instruction level parallelism, multithreading, and multiprocessing.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 138. Computer Networking Fundamentals. 3 Units Prerequisite(s): CSC 60 , CSC 130 . Not currently enrolled in CSC/ CPE 138 . Term Typically Offered: Fall, Spring Overview, structure, models, concepts, principles and protocols of computer networking. Network architecture, ISO/OSI reference model, TCP/IP protocol stack, layering. Protocol, encapsulation, socket. HTTP, FTP, SMTP, DNS, P2P, TCP, UDP. Multiplexing and demultiplexing, reliable data transfer, flow control, congestion control. Internet addressing, routing, forwarding, IP, ICMP. Error detection and correction, multiple access problem, LAN vs WAN, Ethernet, ARP, switching. Wireless standards. Network security, threats and attacks, defense and countermeasures. Cross Listed: CPE 138 ; only one may be counted for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 139. Operating System Principles. 3 Units Prerequisite(s): CSC 60 and CSC 130 and either CSC 137 or CPE 185 . Not currently enrolled in CSC 139 . Term Typically Offered: Fall, Spring Concepts, principles, fundamental issues, organization and structure of contemporary operating systems. Topics include processes, threads, concurrency, parallelism on multi-processor and multi-core systems, CPU scheduling, inter- process communication and synchronization, deadlocks, real and virtual memory management, device management, file systems, security, and protection. Lecture three hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 140. Advanced Algorithm Design and Analysis. 3 Units Prerequisite(s): CSC 130 . Term Typically Offered: Spring only Algorithm design using dynamic programming, randomization and greedy methods. Analysis using recurrence relations and amortization. String and network-flow algorithms. NP-completeness, reductions, and approximation algorithms. Review of divide-and-conquer design and asymptotic notation.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 142. Advanced Computer Organization. 3 Units Prerequisite(s): CSC 137 or CPE 166 and CPE 185 . Term Typically Offered: Fall, Spring Design and performance issues of computers. Instruction set architecture, computer arithmetic, processor design, survey of contemporary architectures, interfacing I/O devices, hierarchal memory design and analysis, parallelism and multiprocessing, distributed systems, techniques for enhancing performance, and an introduction to EDA tools for design and verification of computers. Design and simulation of a microcomputer in an HDL. Note: Open to students with full CSC or CPE major standing only. Cross Listed: CPE 142 ; only one may be counted for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 146. Fundamentals of Blockchain. 3 Units Prerequisite(s): CSC138: Computer Network Fundamentals Term Typically Offered: Fall, Spring The course introduces blockchain technologies, cryptocurrencies, and distributed ledger concepts. Topics include cryptography, digital signatures, consensus protocol, crypto wallet, incentivization mechanism, exploration of byzantine generals' problems, proof of work and proof of of stake consensus protocol. Students will also learn about design and evaluation of decentralized applications, blocks, transactions, gas calculation, analysis of scalable blockchain solutions and development of decentralized application using blockchain networks.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 148. Modeling and Experimental Design. 3 Units Prerequisite(s): MATH 26B or MATH 31 , STAT 50 or ENGR 115 , and proficiency in a programming language. Term Typically Offered: Not offered Modeling and simulation techniques; Monte Carlo methods; queuing theory; model formulation, data collection and analysis, experimental design; model verification and validation.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 151. Compiler Construction. 3 Units Prerequisite(s): CSC 135 Term Typically Offered: Fall only Practical approach to compiler design and implementation. Organization of a compiler, algorithms for lexical, syntactic and semantic analysis, recursive descent and/or LALR parsing, organization of symbol tables, error detection and recovery, object code generation. Modular design will be emphasized.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 152. Cryptography. 3 Units Prerequisite(s): CSC 60 , CSC 130 ; and STAT 50 or ENGR 115 Term Typically Offered: Fall only Introduction to design and analysis of cryptographic systems. Symmetric cryptography: Block ciphers and secure hash functions. Asymmetric cryptography: Key exchange and public-key systems. Authentication and encryption in an adversarial model. Simple cryptanalysis. Protocol design and analysis.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 153. Computer Forensics Principles and Practices. 3 Units Prerequisite(s): CSC 138 or CPE 138 . Term Typically Offered: Spring only Fundamentals of computer forensics, cyber-crime scene analysis and electronic discovery. Technical and formal methodology for conducting security incident investigations; file systems and storage analysis, data hiding techniques, network forensics; projects involving using, understanding, and designing digital forensics tools; anti-forensics; legal issues and standards.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 154. Computer System Attacks and Countermeasures. 3 Units Prerequisite(s): CSC 138 or CPE 138 . Term Typically Offered: Fall only Introduction to network and computer security with a focus on how intruders gain access to systems, how they escalate privileges, and what steps can be taken to secure a system against such attacks. Topics include: Perimeter defenses, intrusion detection systems, social engineering, distributed denial of service attacks, buffer overflows, race conditions, trojans, and viruses.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 155. 3D Graphics and Shader Programming. 3 Units Prerequisite(s): CSC 130 , CSC 131 . Term Typically Offered: Fall, Spring Computer graphics systems that utilize modern GPU hardware are built using shader programming. This course covers the graphics pipeline architecture of GPUs and shader programming for real-time 3D rendering. The topics include 3D coordinate systems, homogenous representation, 3D matrix transformations and matrix stacks, rasterization, perspective projection, hidden surface removal, synthetic camera paradigm, representation and generation of 3D models, texture mapping, lighting and materials, shadows, skyboxes, normal and height mapping, blending for transparency, stereoscopy, and ray tracing.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 159. Operating System Pragmatics. 3 Units Prerequisite(s): CSC 139 . Term Typically Offered: Fall, Spring Application of operating system principles to the design and implementation of a multitasking operating system. Students will write an operating system for a computer platform. Topics include: scheduling of processes, control and allocation of computer resources, and user interfacing. Cross Listed: CPE 159 ; only one may be counted for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 163. Parallel Programming with GPUs. 3 Units Prerequisite(s): CSC 60 , CSC 130 , CSC 137 ; and either MATH 30 or MATH 26A . Term Typically Offered: Fall, Spring Parallel programming with emphasis on developing GPU computing applications. Topics include the GPU architecture and programming model, mapping computations to parallel hardware, parallel computation patterns, parallel programming optimization techniques, and application case studies.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 165. Computer Game Architecture and Implementation. 3 Units Prerequisite(s): CSC 130 ; CSC 133 ; MATH 26A or MATH 30 ; PHYS 5A or PHYS 11A . Term Typically Offered: Spring only Architecture and implementation of computer game systems. Topics include game engine architecture; screen management and rendering control; geometric models; algorithms and data structures for spatial partitioning, occlusion, and collision detection; real-time interactive 3D graphics and animation techniques; behavioral control for autonomous characters; simulation of physical phenomena; sound and music in games; optimization techniques; multi-player games and networking; game development tools and environments. Substantial programming and project work.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 170. Software Requirements and Specification. 3 Units Prerequisite(s): CSC 131 . Term Typically Offered: Spring only – odd years Analysis and specification of functional and non-functional requirements for real-time and non-real-time software systems in the context of a software development lifecycle. Determining customer and user software requirements and ensuring that specifications are correct, complete, and testable. Includes modeling techniques, methods for representing real-time requirements, and the use of Computer-Aided Software Engineering (CASE) tools to illustrate analysis concepts.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 171. Software Engineering Project Management. 3 Units Prerequisite(s): CSC 131 . Term Typically Offered: Spring only – even years Fundamental issues in the management and economics of a software engineering project in the context of the software development lifecycle. Topics include: techniques for project planning (budgeting and scheduling), controlling (including quality assurance and configuration management), organizing, staffing, and directing a software project (leadership and motivation); and contemporary issues in management.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 173. Data Visualization. 3 Units Prerequisite(s): CSC 130 , CSC 134 , and STAT 50 or ENGR 115 . Term Typically Offered: Fall, Spring Design principles and concepts for visualizing data; current visualization systems and languages, exploratory data analysis, interaction techniques, high-dimensional data, network visualization, and text visualization.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 174. Advanced Database Management Systems. 3 Units Prerequisite(s): CSC 131 , CSC 134 . Term Typically Offered: Fall only Enhanced Entity-Relationship (EER) modeling; relational database design based on EER; SQL views; integrity constraints and triggers; stored procedures and functions; database programming techniques; query processing and optimization; transactions concurrency and recovery techniques; relational decomposition and normalization algorithms; database schema and data security.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 176. Database Architecture and Optimization. 3 Units Prerequisite(s): CSC 174 . Term Typically Offered: Spring only Advanced object-relational systems, advanced catalog systems, security mechanisms, distributed database processing, advanced schema design-partitioning, introduction to data warehousing and data mining, materialized views, Internet technologies, parallel query processing, system utilities, database tuning, DBA tools and techniques.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 177. Data Analytics and Mining. 3 Units Prerequisite(s): CSC 134 and STAT 50 or ENGR 115 . Term Typically Offered: Spring only Theory and implementation of techniques for data analytics and mining with emphasis on big data. Topics include data cleaning, exploratory data analysis, data visualization, feature engineering, classification, clustering, association rule mining, predictive model evaluation, parameter tuning, natural language processing, and selected advanced data mining topics. Design and implementation of systems using contemporary data analysis and mining programming libraries for automatic discovery of patterns and knowledge.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 179. Software Testing and Quality Assurance. 3 Units Prerequisite(s): CSC 131 . Term Typically Offered: Spring only – even years Testing, verification, validation, and control of real-time and non-real-time software systems in the context of a software development lifecycle. Topics include: unit, integration and system testing; verification and validation (V&V), quality assurance, metrics, and configuration management.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 180. Intelligent Systems. 3 Units Prerequisite(s): MATH 26B or MATH 31 ; STAT 50 or ENGR 115 ; CSC 130 and CSC 135 . Term Typically Offered: Spring only Theory and implementation of a variety of techniques used to simulate intelligent behavior. Expert systems, fuzzy logic, neural networks, evolutionary computation, and two-player game-tree search will be covered in depth. Knowledge representation, pattern recognition, hybrid approaches, and handling uncertainty will also be discussed.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 190. Senior Project - Part I. 2 Units Prerequisite(s): Senior status, WPJ Portfolio score OR ENGL 109M or ENGL 109W , completed CSC 130 , CSC 131 , and four additional 3-unit upper-division CSC courses that fulfill the major requirements (excluding CSC 192 -195, 198, and 199), not currently enrolled in CSC190. Term Typically Offered: Fall, Spring The first of a two-course sequence in which student teams undertake an industry-grade a project to develop and deliver a software product. Teams apply software engineering principles in the preparation of a software proposal, a project management plan, a software product backlog, and a high-fidelity prototype. All technical work is published using guidelines modeled after IEEE documentation standards. Oral and written reports are required. Lecture one hour, laboratory three hours..",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 191. Senior Project - Part II. 2 Units Prerequisite(s): CSC 190 , not currently enrolled in CSC191. Term Typically Offered: Fall, Spring Continuation of the team group project begun in CSC 190 . Teams apply software engineering principles to the design, implementation, testing, and deployment of their software product. All technical work is published using guidelines modeled after IEEE documentation standards. Oral and written reports are required. Senior project is completed with the successful delivery, installation and demonstration of the software along with all approved documentation. Lecture one hour, laboratory three hours.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 192. Career Planning. 1 Unit Prerequisite(s): CSC 130 and three additional upper-division courses that fulfill major requirements with a C- grade or better (excluding CSC 190 -195, CSC 198 , and CSC 199 ). Term Typically Offered: Fall, Spring Designed to help students learn more about the labor market and opportunities in the Computer Science field. Students will examine their interests, consider their goals, and learn how to conduct an effective proactive job search. Strategies for long term career growth will be identified. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 193A. Web Programming. 1 Unit Prerequisite(s): CSC 130 and not currently enrolled in CSC 193A Term Typically Offered: Fall, Spring Introduction to the World Wide Web; relationship between clients and servers, how web pages are created using several technologies: HyperText Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript, Asynchronous JavaScript and XML (Ajax), server-side web services, integrate web applications with databases.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 194. Computer Science Seminar. 1 Unit Prerequisite(s): Upper division or graduate status in CSC. Term Typically Offered: Spring only Series of weekly seminars on Computer Science topics. These topics cover subjects not normally taught in the course of a school year and they range from the very theoretical in Computer Science through applications to presentations by industry on working conditions, real world environment and job opportunities. Note: May be repeated for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 195. Fieldwork in Computer Science. 1 - 4 Units Prerequisite(s): Instructor permission. Term Typically Offered: Fall, Spring Directed observations and work experience in computer science with firms in the industry or public agencies. Supervision is provided by the instructional staff and the cooperating agencies. Note: Faculty approval required. May be repeated for credit. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 195A. Professional Practice. 1 - 12 Units Prerequisite(s): Instructor permission. Term Typically Offered: Fall, Spring Supervised employment in a professional engineering or computer science environment. Placement arranged through the Career Center. Note: Requires satisfactory completion of the work assignment and a written report. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 195B. Professional Practice. 1 - 12 Units Prerequisite(s): Instructor permission. Term Typically Offered: Fall, Spring Supervised employment in a professional engineering or computer science environment. Placement arranged through the Career Center. Note: Requires satisfactory completion of the work assignment and a written report. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 196A. Computational Biology. 3 Units Prerequisite(s): CSC 130 , and STAT 50 or ENGR 115 Term Typically Offered: Fall, Spring, Summer Introduction to computational biology, computational methods with complex biological and biomedical challenges. Focus on biological problems and computational solutions. Coverage includes cell biology, sequencing technologies, statistical hypothesis testing, and omics data visualization. Emphasis on computational techniques for handling large-scale biological data like genome sequencing and microarray technologies. No prior biology knowledge required.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 196D. Introduction to Blockchain. 3 Units Prerequisite(s): CSC130, Currently not enrolled in CSC196D Term Typically Offered: Fall, Spring Introduction to blockchain technologies, cryptocurrencies and distributed ledger. Topics include crypto wallet, crypto assets, blockchain programming languages, escrow services, cross-chain atomic swaps, and incentivization mechanism. Explore consensus fundamentals, byzantine generals' problems, the sybil attacks, and the strawman protocol. Design and evaluation of decentralized applications, blocks, transactions, and gas calculation. Analysis of scalable blockchain solutions. Development of decentralized application using blockchain networks.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 196P. Cloud and Mobile Computing Pragmatics. 3 Units Prerequisite(s): CSC 134 , CSC 138 , and CSC 139 Introduction to cloud computing. Cloud services. Deployment options. The installation, configuration, and deployment of a cloud infrastructure based upon industrial standards. Step-by-step cloud setup as well as the development of scripts for automated deployment. The installation, building, deployment, testing, and provisioning of a multi-tier cloud based mobile application as a cloud service.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 196W. Web Programming. 1 Unit Prerequisite(s): CSC 130 Term Typically Offered: Fall, Spring Introduction to the World Wide Web; relationship between clients and servers, how web pages are created using several technologies: HyperText Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript, Asynchronous JavaScript and XML (Ajax), server-side web services, integrate web applications with databases. Note: Offered Online",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 196Z. Advanced Computer Graphics II. 3 Units Prerequisite(s): CSC 155 , not currently enrolled in CSC196Z or CSC 296Z Term Typically Offered: Fall only Introduction of 3D Computer Graphics (CG) algorithms to render computational imageries with better quality. Topics include 3D computer graphics concepts and representations, 3D model editing and rendering, acceleration structure for rendering, visual effects, basic simulations and animations, and recent computer graphics techniques.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 198. Co-Curricular Activities in Computer Science. 1 - 3 Units Term Typically Offered: Fall, Spring Students will serve in leadership roles in computer science activities, provide tutoring or technical assistance in labs, assist instructors in grading coursework, or assist in other activities related to the subject matter and concerns of the department. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 199. Special Problems. 1 - 3 Units Term Typically Offered: Fall, Spring Individual projects or directed reading in specified topics in computer science. Note: Open only to students who appear competent to carry on individual work; approval of faculty supervisor and advisor required. May be repeated for credit. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 200. Professional Writing in Computer Science.  3 Units Prerequisite(s): Graduate standing in Computer Science or Software Engineering Term Typically Offered: Fall, Spring Immersion in the discourse of Computer Science: genres, literacies, stylistic conventions. Writing process, academic writing in various academic genres, revising, and editing. Tools for technical writing. Ethical issues in connection with scientific writing.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 201. Programming Language Principles. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Notations for the specification of programming language syntax and semantics; attribute, translational, operational, axiomatic, algebraic, denotational, and action semantics. Applications of programming language syntax and programming language semantics. Use of meta languages to generate executable language definitions for language implementation, program transformation, program property analysis, and rapid software prototyping. Principles of logic, functional, and object-oriented programming languages.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 204. Data Models for Database Management Systems. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Database management system (DBMS) architecture; database file organizations and access methods; the relational model and relational algebra; SQL query language; introduction to query optimization; concurrent transaction processing and backup and recovery; applications using embedded SQL, object types, and stored procedures; database analysis and design notations: EER, UML, and XML; web database environments; database security and administration throughout course. Note: Not intended for students who have completed CSC 174 .",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 205. Computer Systems Structure. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering or Computer Engineering. Term Typically Offered: Fall, Spring Overview of computer systems organization and design. Concepts of instruction set architecture, interactions of hardware-software interface, principles of performance analysis, processor design, instruction level parallelism, survey of contemporary architectures, hierarchical memory design and analysis, interfacing I/O devices, parallel processing and multiprocessing, and introduction to EDA tools and methodologies for computer systems design and verification.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 206. Algorithms And Paradigms. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Design and analysis of algorithms. Classical design paradigms including greedy, divide-and-conquer, dynamic programming, and backtracking algorithmic methods. Alternative paradigms of computing including parallel and numerical approaches. Theoretical limits of computation. Selected additional topics such as genetic, approximation, and probabilistic algorithms.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 209. Research Methodology. 1 Unit Prerequisite(s): Enrolled in at least 3 units of 200-level courses in Computer Science. Term Typically Offered: Fall, Spring Research methodology, problem formulation, and problem solving. Orientation to the requirements for Master's Thesis or Project. Presentations on various research topics. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 212. Bioinformatics: Data Integration and Algorithms. 3 Units Prerequisite(s): CSC 130 , STAT 50 , and graduate status; BIO 10 recommended. Term Typically Offered: Fall, Spring The application of information technology and computer science to biological problems, in particular to biomedical science issues involving genetic sequences. Algorithms and their applications to DNA sequencing and protein database search; tools and techniques for data integration to transform genetic sequencing data into comprehensible information to study biological processes.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 214. Knowledge-Based Systems. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Historical perspective of knowledge-based systems and their relationship to artificial intelligence. Concepts of knowledge representation and automated reasoning. Survey of expert systems in a variety of applications in engineering and other fields. Implementation of expert systems and expert system shells.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 215. Artificial Intelligence. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering or Computer Engineering. Term Typically Offered: Fall, Spring Nature of intelligence and possibility of its realization on digital computers via algorithmic and heuristic programming methods. Informed and uninformed search, adversarial search, stochastic search, machine learning, regular and deep neural networks, and knowledge representation and inference over uncertainty. Computer vision topics. Natural language processing. Design and implementation of systems using contemporary programming libraries to solve a variety of artificial intelligence problems.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 219. Machine Learning. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering or Computer Engineering. Term Typically Offered: Fall, Spring Introduction to major paradigms and methods of machine learning. Inductive learning, explanation-based learning, classifier systems and genetic algorithms, analogical reasoning, case-based learning, connectionist learning, data driven approaches to empirical discovery, and basis of learning theory. Focus is on representative systems that have been built.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 230. Software System Engineering. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering; or Computer Engineering and CSC 131 . Term Typically Offered: Fall, Spring Integration of managerial and technical activities in system engineering that control the cost, schedule, and technical achievement of the developing software system. Application of the principles, activities, tasks and procedures of system engineering and software engineering to the development of a software system.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 231. Software Engineering Metrics. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Software quality and quantity metrics in software engineering. Measurement theory and metrics. Metrics include management metrics, indirect and direct metrics and predictive metrics. Uses of metrics include software cost and schedule estimates, model calibration, and software productivity measurements. Metrics techniques include the Goal-Question-Metric approach, COCOMO, and function point analysis.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 232. Software Requirements Analysis and Design. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Software engineering requirements including elicitation, analysis, specification, verification and management. Emphasizes IEEE software engineering requirements and standards and the concept of operations (ConOps) document. Techniques include structured analysis, use cases and object-oriented analysis.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 233. Advanced Software Engineering Project Management. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Advanced methods and procedures for managing a software development project. Includes project planning, scheduling, and cost estimation, project organizational types, staffing and training considerations, leading and motivating computer personnel, and methods for measuring and controlling a project. Emphasizes IEEE software engineering management standards and keys to project success.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 234. Software Verification and Validation. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering; or Computer Engineering and CSC 131 . Term Typically Offered: Fall, Spring Verification and validation (V & V) techniques to identify and resolve software problems and high-risk issues early in the software lifecycle. Application of V & V to all phases of the lifecycle process. Includes planning and reporting on the V & V effort. Topics also include software quality assurance and software testing.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 235. Software Architecture. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Software architecture styles. Concepts and activities for software architecture design. Notations, models, and specification languages for software architecture design. Engineering discipline and guidance for software architecture design. Techniques, methods, tools for designing, building, analyzing, and evaluating software architecture. Object-oriented approach for software architecture design. Architecture-based software development. Management of software architecture design. Reuse of software architecture design.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 236. Formal Methods in Secure Software Engineering. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Basic concepts of formal methods in secure software engineering; formal methods based software development models and methodologies; formal methods for software system specification, modeling, analysis, verification, information assurance and security; systems and tools for the application of formal methods in secure software engineering; advances of formal methods in secure software engineering.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 237. Microprocessor Systems Architecture. 3 Units Prerequisite(s): CSC 205 . Term Typically Offered: Fall, Spring Microprocessor/microcomputer architecture and hardware/software interfacing design. RISC v. CISC architecture in-depth, case studies of several popular commercial advanced 32-bit microprocessors. Microcomputer firmware architecture is discussed and illustrated with detailed examples. Term project in which students specify, design and build the hardware and firmware of a computer system.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 238. Human-Computer Interface Design. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Issues involved in design of interaction between people and computers. Insight and experience in key issues of HCI design. Emphasis on identifying issues and tradeoffs in interaction design. Development and evaluation of alternative solutions to design problems.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 239. Advanced Operating Systems Principles and Design. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering, or Computer Engineering. Term Typically Offered: Fall, Spring Advanced concepts of concurrent processes, concurrent programming and operating systems. Virtual memory management systems, deadlock, file systems, operating system performance measurement and evaluation, device driver development.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 242. Computer-Aided Systems Design and Verification. 3 Units Prerequisite(s): CSC 205 or CSC/ EEE 273 . Term Typically Offered: Fall, Spring Design and verification methodology using hardware description and verification languages (HDVLs). Advances in IC chip design; introduction to HDVLs such as System Verilog; HDVL language basics including data types, arrays, structures, unions, procedural blocks, tasks, functions, and interface concepts; design hierarchy; verification planning and productivity; verification infrastructure; guidelines for efficient verification of large designs; assertion-based verification; comprehensive computer-related design projects.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 244. Database System Design. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering Term Typically Offered: Fall, Spring SQL views, integrity constraints and triggers, stored procedures and functions. Advanced topics in database system design: an algebra for queries, query processing algorithms, query compiler, query optimization, transaction management, recovery, concurrency control. Special topics on data management.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 245. Performance Modeling and Evaluation. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Performance and cost measures; software and hardware performance monitors; data reduction and evaluation; analytic and simulation models of hardware and program behavior; performance-cost trade-offs and resource allocation.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 250. Computer Security. 3 Units Prerequisite(s): Fully classified graduate standing in Computer Science, Computer Engineering, or Software Engineering. Term Typically Offered: Fall, Spring Principles and technologies behind computer security. Introduction to encryption and decryption; security mechanisms in computer programs, operating systems, databases, and networks; administration of computer security, and legal and ethical issues.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 251. Principles of Compiler Design. 3 Units Prerequisite(s): CSC 151 or CSC 201 . Term Typically Offered: Fall, Spring Programming language translation, lexical analysis, syntax analysis including LR, LALR, and predictive techniques. Semantic analysis including semantic specification. Code generation and optimization including control and data flow analysis. Storage management. Error detection and recovery.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 252. Cryptography Theory and Practice. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Computer Engineering, or Software Engineering. Term Typically Offered: Fall, Spring Introduction to design and analysis of cryptographic systems. Symmetric cryptography: block ciphers and secure hash functions. Asymmetric cryptography: key exchange and public-key systems. Authentication and encryption in an adversarial model. Simple cryptanalysis. Protocol design and analysis.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 253. Computer Forensics. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Computer Engineering, or Software Engineering. Term Typically Offered: Fall, Spring Structured security incident investigations internal and external; emphasis on analysis of electronic evidence and proper audit; utilization of scientific aids in obtaining information from computing devices; legal electronic evidence.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 254. Network Security. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Computer Engineering, or Software Engineering. Term Typically Offered: Fall, Spring In-depth study of network security problems and discussion of potential solutions. Topics include: network vulnerabilities and attacks, secure communication, Internet security protocols and tools to defend against network attacks, network intrusion detection, and wireless network security. Survey and demonstration of software tools used for network security.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 255. Computer Networks. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering, or a Computer Engineering. Term Typically Offered: Fall, Spring Computer networking fundamentals with emphasis on higher level protocols and functions. Network design considerations, software design and layering concepts, interface design, routing and congestion control algorithms, internetworking, transport protocol design, and end-to-end communication, session and application protocols. Specific examples of commercial and international standards.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 258. Distributed Systems. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering, or Computer Engineering. Term Typically Offered: Fall, Spring Distributed system architectures, distributed object model, component-based design, time and global states, coordination and agreement, distributed transactions and concurrency control, replication, security, distributed multimedia systems, message passing and distributed shared memory, Web services and Service-Oriented Architecture (SOA), Cloud and Ubiquitous computing. Emphasis on scalability, manageability, security, and dependability of distributed systems.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 273. Hierarchical Digital Design Methodology. 3 Units Prerequisite(s): CSC 205 , CPE 64 , or equivalent. Term Typically Offered: Fall, Spring Advanced logic modeling, simulation, and synthesis techniques. Topics include modeling, simulation, and synthesis techniques, using Hardware Description Language (HDL's), Register Transfer Level (RTL) representation, high-level functional partitioning, functional verification and testing, computer-aided logic synthesis, logical verification and testing, timing and delay analysis, automated place and route process, and design with Application Specific Integrated Circuits (ASICs) and programmable logic. Cross Listed: EEE 273; only one may be counted for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 275. Advanced Data Communication Systems. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering, or Computer Engineering. Term Typically Offered: Fall, Spring Fundamental concepts, principles and issues of data communication systems. The ISO/OSI reference model is used as a vehicle for discussion and emphasizes the lower layer of the model. Specific topics include: motivation and objectives, layered architectures, physical layer principles and protocols, data link and medium access control principles and protocols, circuit, packet and cell switching, local area network design principles and performance comparisons, high speed networking, introduction to wide area network architectures. Typical examples and standards are cited for point-to-point, satellite, packet radio and local area networks.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 280. Advanced Computer Architecture. 3 Units Prerequisite(s): CSC 205 and fully classified graduate status in Computer Science or Software Engineering. Term Typically Offered: Fall, Spring Introduction to parallel architecture covering computer classification schemes, fine and coarse grain parallelism, processor interconnections, and performance issues of multiprocessor systems. Includes parallel and pipelined instruction execution, structure of multiprocessor systems, memory hierarchy and coherency in shared memory systems, programming issues of multiprocessor systems, arithmetic pipeline design, and design for testability. Cross Listed: EEE 280 ; only one may be counted for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 288. Special Topics in Computer Science - Software Engineering. 3 Units Term Typically Offered: Fall, Spring Contemporary topics in computer science will be offered as needed. Topics offered:",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 290. Preparation for Culminating Experience. 3 Units Prerequisite(s): Fully classified, CSC 200 ; may be taken concurrently. Term Typically Offered: Fall, Spring Planning, preparing, and conducting the thesis or project work for the completion of culminating experience under the supervision of a faculty advisor. May be repeated, but only three (3) units count toward the master's degree. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 295. Fieldwork. 1 - 3 Units Term Typically Offered: Fall, Spring Directed observations and work experience in computer science with firms in the industry or public agencies. Supervision is provided by the instructional staff and the cooperating agencies. Note: Faculty approval required. May be repeated for credit. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296P. Theory and Practice of Parallel Programming with GPUs. 3 Units Prerequisite(s): CSC 137 , fully classified graduate status in Computer Science; and not currently enrolled in CSC 163 or CSC 296P . Term Typically Offered: Fall, Spring Theory and practice of parallel programming with emphasis on developing GPU computing applications. Topics include the GPU architecture and programming model, mapping computations to parallel hardware, parallel computation patterns, parallel programming optimization techniques, and application case studies. Evaluation and discussion of the prominent research in selected GPU computing methodologies and their utilization. Note: Students cannot receive credit for both CSC 163 and CSC 296P .",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296R. Computer Vision. 3 Units Prerequisite(s): CSC 206 , and Math 35 or Math 100; not currently enrolled in CSC 296R Term Typically Offered: Fall, Spring Topics in computer vision including fundamentals of image formation, image transformations and rotation, Fourier transform and frequencies, lighting and optics, filtering, edge and line detection and Hough transform, feature detection and matching, a brief introduction to machine learning and classifiers, recognition, large-scale retrieval, object detection, and face recognition. Mathematical fundamentals and methods, design and implementation of various computer vision applications.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296S. Deep Learning. 3 Units Prerequisite(s): Fully classified graduate status in Computer Science, Software Engineering or Computer Engineering. Term Typically Offered: Fall, Spring Theoretical foundations, algorithms, methodologies, and applications for deep neural networks. Techniques to improve neural networks, regularization, optimizations, and hyperparameter tuning. Deep learning models including convolutional neural networks, recurrent neural networks, transformers, and graph neural networks for vision and language tasks. Generative and discriminative probabilistic models. Transfer learning, multi-modal learning, and multi-task learning. Attention and sequence-to-sequence models. Large language models. Design and implementation of deep learning systems in various application domains using contemporary deep learning programming frameworks.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296T. Fundamentals in Cybersecurity for Teachers. 3 Units Prerequisite(s): Education, teaching, and/or professional experience qualified for admission into the National Cybersecurity Teaching Academy program at Sacramento State. Term Typically Offered: Fall, Spring, Summer Introduction to network and computer security with a focus on how intruders gain access to systems, how they escalate privileges, and what steps can be taken to secure a system against such attacks. Topics include: computer networking basics, operating system basics, vulnerability and attacks, intrusion penetration, cyber defenses, network hardening, system hardening, security administration. This course is designed for K-12 teachers, and does not meet regular degree requirements in Computer Science, Software Engineering, or Computer Engineering.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296U. Introduction to Digital Forensics for Teachers. 3 Units Prerequisite(s): Education, teaching, and/or professional experience qualified for admission into the National Cybersecurity Teaching Academy program at Sacramento State. Term Typically Offered: Fall, Spring, Summer Introduction to computer forensics, cyber-crime scene analysis and electronic discovery. Digital forensics related legal issues, procedures and standards. Technical methodologies for setting up forensic workstations; data acquisition; file systems and storage analysis for Linux, Mac and Windows systems; data hiding techniques; graphics file recovery; network forensics; and mobile forensics. Hands-on activities for using and understanding digital forensic tools. This course is designed for K-12 teachers, and does not meet regular degree requirements in Computer Science, Software Engineering, or Computer Engineering.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296V. Cybersecurity Teaching Methods for Teachers. 3 Units Prerequisite(s): Education, teaching, and/or professional experience qualified for admission into the National Cybersecurity Teaching Academy program at Sacramento State, and CSC 296T . Term Typically Offered: Fall, Spring, Summer Introduction to existing generally accepted guidelines and frameworks (such as HSCCG, CSEC, CAE Knowledge Units, NCWF) in the discipline of cybersecurity. Methods for teaching cybersecurity to transform cybersecurity subject matter, with pedagogical content knowledge, into student learning. Topics include: culturally-relevant methods, scaffolding knowledge, differentiation, assessment, and cybersecurity instructional technologies (ranges, CTFs, competitions, and unplugged activities). This course is designed for K-12 teachers, and does not meet regular degree requirements in Computer Science, Software Engineering, or Computer Engineering.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296W. Cybersecurity Practicum for Teachers. 3 Units Prerequisite(s): Education, teaching, and/or professional experience qualified for admission into the National Cybersecurity Teaching Academy program at Sacramento State, CSC 296T and CSC 296U . Term Typically Offered: Fall, Spring, Summer Exposure to cybersecurity operations through service projects, research, or industry experience. This course is designed for students to work with industry or the community in a cybersecurity operations environment to apply knowledge in the development, implementation, testing and documentation of security controls. This course is designed for K-12 teachers, and does not meet regular degree requirements in Computer Science, Software Engineering, or Computer Engineering.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 296Z. Computer Graphics Theories and Algorithms. 3 Units Prerequisite(s): CSC 155 , fully classified graduate status in Computer Science, not currently enrolled in CSC196Z or CSC 296Z Term Typically Offered: Fall only Advanced theories and concepts of 3D computer graphics technique to render realistic computational imageries. Topics include geometry processing, computational geometry, physical-based rendering, particle system, mass-spring model, forward and inverse kinematics and recent graphics technologies. Survey of the latest research works in computer graphics.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 299. Special Problems. 1 - 3 Units Term Typically Offered: Fall, Spring Any properly qualified student who wishes to pursue a problem of his own choice may do so if the proposed subject is acceptable to the member of the staff with whom he/she works and to his/her advisor. Note: May be repeated for credit. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 500. Master's Thesis. 1 - 5 Units Prerequisite(s): CSC 209 ; advanced to candidacy. Term Typically Offered: Fall, Spring Completion of a thesis approved for the Master's degree. Note: May be repeated for credit.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 500C. Master's Thesis Continuous Enrollment. 1 Unit Prerequisite(s): CSC 500 Term Typically Offered: Fall, Spring Continuation of a thesis approved for the Master's degree. Note: May be repeated for credit Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 502. Master's Project. 1 - 2 Units Prerequisite(s): CSC 209 ; advanced to candidacy. Term Typically Offered: Fall, Spring Completion of a project approved for the Master's degree.",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  },
+  {
+    "text": "CSC 502C. Master's Project Continuous Enrollment. 1 Unit Prerequisite(s): CSC 502 Term Typically Offered: Fall, Spring Continuation of a project approved for the Master's degree. Note: May be repeated for credit. Credit/No Credit",
+    "source_id": 5,
+    "source_url": "https://catalog.csus.edu/courses-a-z/csc/",
+    "source_type": "course_catalog"
+  }
+]
