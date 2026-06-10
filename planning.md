@@ -41,10 +41,13 @@ This domain covers mostly real student experiences with a little bit of official
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+250 - 350 tokens
 
 **Overlap:**
+25 tokens
 
 **Reasoning:**
+These documents are already small semantic units, so the chunk size should align to fit a single review boundaries rather than a fixed count. For longer reddit comments, we can split at each paragraph. Therefore, a chunk sizes between 250 and 350 would work well with a small overlap of 25 in case certain longer reviews exceed the limit. Fixed size chunking is better for optimized long documents, not small reviews.
 
 ---
 
@@ -57,10 +60,13 @@ This domain covers mostly real student experiences with a little bit of official
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence transformers
 
 **Top-k:**
+Top 4 chunks
 
 **Production tradeoff reflection:**
+If I were deploying this for real users, and cost wasn't a constraint, I would consider upgrading to something more fine tuned for educational and forum content/ This would provide better ranking when a user asks a question and the reviews yse indirect language as an answer.
 
 ---
 
@@ -73,11 +79,11 @@ This domain covers mostly real student experiences with a little bit of official
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | How many hours per week do CS students typically spend on coursework outside of class? | Students on r/csMajors report spending roughly 20–40 hours per week on coursework, with the range depending on course load and difficulty |
+| 2 | How many hours per week do students say the OMS Central Machine Learning course requires? | OMS Central reviewers report the ML course requires approximately 10–20 hours per week |
+| 3 | What do students say about free time when taking multiple CS classes simultaneously? | Students report having limited free time (under 10 hours/week) when taking 3+ CS courses at once |
+| 4 | What do OMS Central reviewers say about the difficulty of the Software Development Process course? | Reviewers describe it as one of the lighter OMSCS courses, often citing it as manageable alongside other courses |
+| 5 | What strategies do CS students on Reddit recommend for managing a heavy course workload? | Students recommend starting assignments early and attending office hours as the most commonly cited strategies |
 
 ---
 
@@ -87,9 +93,9 @@ This domain covers mostly real student experiences with a little bit of official
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. My documents may become noisy because reddit comments can be people saying simple things like "I agree".
 
-2.
+2. Chunks may split key information accross boundaries due to the lack of labeling. Reviews may not have enough specificity to what they are referring to.
 
 ---
 
@@ -100,6 +106,46 @@ This domain covers mostly real student experiences with a little bit of official
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         RAG PIPELINE — UNOFFICIAL GUIDE                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+  ┌──────────────────────┐
+  │  1. DOCUMENT         │   Sources: Reddit threads, OMS Central reviews,
+  │     INGESTION        │            Sac State course catalog
+  │                      │   Tools:   requests + BeautifulSoup (web scraping)
+  └──────────┬───────────┘            PRAW (Reddit API)
+             │  raw text per source
+             ▼
+  ┌──────────────────────┐
+  │  2. CHUNKING         │   Strategy: split at review/comment boundaries
+  │                      │   Chunk size: 200–350 tokens
+  │                      │   Overlap:    20–30 tokens (only when split needed)
+  └──────────┬───────────┘   Tools:     LangChain RecursiveCharacterTextSplitter
+             │  list of text chunks
+             ▼
+  ┌──────────────────────┐
+  │  3. EMBEDDING +      │   Model:  all-MiniLM-L6-v2 (sentence-transformers)
+  │     VECTOR STORE     │   Dims:   384
+  │                      │   Store:  ChromaDB (local persistent collection)
+  └──────────┬───────────┘
+             │  vector index on disk
+             ▼
+  ┌──────────────────────┐
+  │  4. RETRIEVAL        │   Method: cosine similarity search
+  │                      │   Top-k:  4 chunks per query
+  │                      │   Tools:  ChromaDB .query()
+  └──────────┬───────────┘
+             │  top-4 relevant chunks + metadata
+             ▼
+  ┌──────────────────────┐
+  │  5. GENERATION       │   Model:  Groq API (llama-3.3-70b-versatile)
+  │                      │   Input:  user query + retrieved chunks as context
+  │                      │   Output: grounded answer citing student experiences
+  └──────────────────────┘
+```
 
 ---
 
@@ -114,6 +160,7 @@ This domain covers mostly real student experiences with a little bit of official
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+I will use Groq to give it the user query, top k chunks, and I expect it to produce a grounded response based on the documentation provided. I will verify that the outputs match my spec by verifying if the output is in one of the documents word for word.
 
 **Milestone 3 — Ingestion and chunking:**
 
